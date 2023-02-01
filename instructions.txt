@@ -1,0 +1,4 @@
+1. create a .sh file (nano filename.sh)
+2. write commands one after the other seperated by ";" or "&&"
+3. if permission required "chmod a+x filename.sh"
+4. to run the file "./filename.sh"
